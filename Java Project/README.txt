@@ -1,0 +1,1 @@
+I developed a Coffee Maker app. This app is designed as a desktop application with a Graphical User Interface (GUI) using an IDE (IntelliJ) which will communicate with a database (MySql). 
